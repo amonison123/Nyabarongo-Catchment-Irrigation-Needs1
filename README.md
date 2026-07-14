@@ -30,6 +30,6 @@ If you organize the files into subfolders (e.g., `data/raw`), you must manually 
 To run these notebooks locally, clone this repository and install the required dependencies:
 
 ```bash
-git clone [https://github.com/amonison/Nyabarongo-Catchment-Irrigation-Needs.git](https://github.com/amonison/Nyabarongo-Catchment-Irrigation-Needs.git)
+git clone [https://github.com/amonison123/Nyabarongo-Catchment-Irrigation-Needs.git](https://github.com/amonison123/Nyabarongo-Catchment-Irrigation-Needs.git)
 cd Nyabarongo-Catchment-Irrigation-Needs
 pip install -r requirements.txt
